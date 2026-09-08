@@ -1,0 +1,8 @@
+valid_checkout:
+  first_name: "Jane"
+  last_name: "Doe"
+  zip_code: "560001"
+
+products:
+  - "Sauce Labs Backpack"
+  - "Sauce Labs Bike Light"
