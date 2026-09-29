@@ -79,4 +79,4 @@ HTML report lands at `reports/report.html`. Failure screenshots land in
 - Add `pytest-base-url` / multiple `.env` files for multi-environment runs
   (staging vs. prod).
 - Swap the target site's locators in `pages/` for your own project once
-  you're comfortable with the patterns here.
+  you're comfortable with the patterns here. 
